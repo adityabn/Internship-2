@@ -1,11 +1,3 @@
-# Internship-2
-Pengujian Metode Stress Testing Menggunakan Metode Apache Benchmark
-
-## Intalasi 
-- Pada Ubuntu atau Debian, Apache Benchmark(ab) adalah bagian dari paket apache2-utils. Jadi pastikan paket telah terinstal untuk menjalankan fungsi apache benchmark.
-- Untuk menginstall apache benchmark silahkan masukkan:
-
-
 a. Ubuntu/ Debian:
 apt-get install apache2-utils
 
